@@ -1,4 +1,4 @@
-# erl_car_mapping
+# Mapping & Localization for race Cars
 
 - [Octomap](#octomap)
 - [Voxblox](#voxblox)
