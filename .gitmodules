@@ -1,0 +1,36 @@
+[submodule "octomap"]
+	path = octomap
+	url = https://github.com/OctoMap/octomap.git
+[submodule "octomap_mapping"]
+	path = octomap_mapping
+	url = https://github.com/OctoMap/octomap_mapping.git
+[submodule "octomap_rviz_plugins"]
+	path = octomap_rviz_plugins
+	url = https://github.com/OctoMap/octomap_rviz_plugins.git
+[submodule "octomap_ros"]
+	path = octomap_ros
+	url = https://github.com/OctoMap/octomap_ros.git
+[submodule "octomap_msgs"]
+	path = octomap_msgs
+	url = https://github.com/OctoMap/octomap_msgs.git
+[submodule "voxblox"]
+	path = voxblox
+	url = https://github.com/ethz-asl/voxblox.git
+[submodule "Octomap/octomap"]
+	path = Octomap/octomap
+	url = https://github.com/OctoMap/octomap.git
+[submodule "Octomap/octomap_mapping"]
+	path = Octomap/octomap_mapping
+	url = https://github.com/OctoMap/octomap_mapping.git
+[submodule "Octomap/octomap_rviz_plugins"]
+	path = Octomap/octomap_rviz_plugins
+	url = https://github.com/OctoMap/octomap_rviz_plugins.git
+[submodule "Octomap/octomap_ros"]
+	path = Octomap/octomap_ros
+	url = https://github.com/OctoMap/octomap_ros.git
+[submodule "Octomap/octomap_msgs"]
+	path = Octomap/octomap_msgs
+	url = https://github.com/OctoMap/octomap_msgs.git
+[submodule "Voxblox/voxblox"]
+	path = Voxblox/voxblox
+	url = https://github.com/ethz-asl/voxblox.git
